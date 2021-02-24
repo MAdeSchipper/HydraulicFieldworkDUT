@@ -1,0 +1,2 @@
+Time,Type
+2019-09-01 11:30:26.000,Time synchronization marker

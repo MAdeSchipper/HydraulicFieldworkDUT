@@ -1,0 +1,59 @@
+{
+   "dataheader":[
+      {
+         "name":"Time",
+         "format":"yyyy-MM-dd HH:mm:ss.SSS",
+         "index":1
+      },
+      {
+         "name":"Pressure",
+         "index":2,
+         "units":"dbar"
+      },
+      {
+         "name":"Sea pressure",
+         "index":3,
+         "units":"dbar"
+      },
+      {
+         "name":"Depth",
+         "index":4,
+         "units":"m"
+      }
+   ],
+   "schedule":{
+      "loggertime":"2019-09-03 08:52:16.340",
+      "endtime":"2099-12-30 23:00:00.000",
+      "starttime":"2019-09-01 09:30:24.000"
+   },
+   "sampling":{
+      "mode":"CONTINUOUS",
+      "period":"125"
+   },
+   "comment":"",
+   "instrument":{
+      "fwversion":1.047,
+      "serial":202438,
+      "model":"RBRsolo³",
+      "fwtype":105
+   },
+   "version":{
+      "file":"1.0.0",
+      "ruskin":"2.8.0"
+   },
+   "export":{
+      "exporttime":"2019-09-16 13:24:49.218",
+      "endtime":"2019-09-01 19:26:28.875",
+      "starttime":"2019-09-01 09:30:26.000"
+   },
+   "parameters":{
+      "altitude":0,
+      "salinity":35,
+      "spec_cond_coeff":0,
+      "density":1.0281,
+      "conductivity":42.914,
+      "temperature":15,
+      "pressure":10.1325,
+      "atmpressure":10.1325
+   }
+}
